@@ -14,6 +14,8 @@ A software engineer passionate about building impactful AI-driven solutions and 
 - ✍️ Published a **research paper** in the *International Journal of Scientific Research and Engineering Development*.  
 - 📜 Holder of a **copyright** for "Synchronization of devices using infrared (IR) technologies."  
 
+I'm actively exploring opportunities to collaborate on innovative projects, contribute to open-source initiatives, and build solutions that drive technological advancement.
+
 ---
 
 ## 🚀 Fun Facts
