@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Shubham Patil
 
+A software engineer passionate about building impactful AI-driven solutions and cloud-based applications.
 🎓 **Master's in Engineering Management (Data Science)** from **San Jose State University**  
 💻 **Software Engineer** | 🚀 **AI DATA Enthusiast** | 🌐 **Cloud Developer**
 
@@ -19,13 +20,7 @@
 - 🎮 Loves to play games in spare time.  
 - 🤖 Experiments with new AI tools and builds projects using them.  
 - 💬 Ask me about anything technical!  
-- 💻 Loves to write and optimize code.  
-
----
-
-## 🛠️ Languages and Tools
-
-![Languages and Tools](https://github.com/iiTzShubham/languages-and-tools-banner.png)   
+- 💻 Loves to write and optimize code and Blogs.    
 
 ---
 
