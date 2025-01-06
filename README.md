@@ -27,7 +27,7 @@ A software engineer passionate about building impactful AI-driven solutions and 
 
 ## 📫 Reach Me
 
-- ✉️ [Email][patil.pshubham@gmail.com](mailto:patil.pshubham@gmail.com)  
+- ✉️ Email[patil.pshubham@gmail.com](mailto:patil.pshubham@gmail.com)  
 - 🌐 [Portfolio](https://shubhampatil03/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/shubhampatil03/)  
 - 🧑‍💻 [GitHub](https://github.com/iiTzShubham)  
