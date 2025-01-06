@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shubham Patil
 
 🎓 **Master's in Engineering Management (Data Science)** from **San Jose State University**  
-💻 **Software Engineer** | 🚀 **AI Enthusiast** | 🌐 **Cloud Developer**
+💻 **Software Engineer** | 🚀 **AI DATA Enthusiast** | 🌐 **Cloud Developer**
 
 ---
 
@@ -14,19 +14,6 @@
 
 ---
 
-## 🔧 Skills
-
-**AI & Machine Learning**: ChatGPT, Llama, Hugging Face, Transformers, TensorFlow, CUDA, LLMs  
-**Backend Development**: NodeJS, Express, C++, Java  
-**Frontend Development**: Angular, ReactJS, HTML, CSS, Bootstrap, Figma  
-**Data Science**: Pandas, NumPy, Scikit-learn, Matplotlib, Apache Airflow  
-**Cloud Technologies**: AWS, Google Cloud Platform (GCP)  
-**Databases**: MySQL, MongoDB, Redshift, BigQuery  
-**Data Visualization**: Tableau, Power BI, Microsoft Excel (VLOOKUP, Pivot Tables, VBA)  
-**Project Management**: Jira, GitHub, Confluence  
-
----
-
 ## 🚀 Fun Facts
 
 - 🌌 Reduced live streaming latency by **40%** and doubled viewership for a major project.  
@@ -36,11 +23,16 @@
 
 ---
 
-## 📫 Connect with Me
+## 📫 Reach Me
 
-- 🌐 [Portfolio](https://shubhampatil03/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/shubhampatil03/)
-- 🧑‍💻 [GitHub](https://github.com/iiTzShubham)
+- ✉️ Email: [patil.pshubham@gmail.com](mailto:patil.pshubham@gmail.com)  
+- 🌐 [Portfolio](https://shubhampatil03/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/shubhampatil03/)  
+- 🧑‍💻 [GitHub](https://github.com/iiTzShubham)  
+- 📄 [Resume](https://github.com/iiTzShubham/Resume2025.pdf)  
+- 🐦 [X (Twitter)](https://x.com/S0NiC_03)  
+- 📸 [Instagram](https://www.instagram.com/shubz.p98/)  
+- 🎮 [Twitch](https://www.twitch.tv/s0nic_33)  
 
 ---
 
