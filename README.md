@@ -16,10 +16,16 @@
 
 ## 🚀 Fun Facts
 
-- 🌌 Reduced live streaming latency by **40%** and doubled viewership for a major project.  
-- ⚡ Led a **Google Cloud UI** design, improving content management efficiency by **25%**.  
-- 📈 Achieved a **50% reduction** in cyberattacks with a machine learning-based system.  
-- 🎮 Loves experimenting with **AI-driven gaming systems** in spare time!  
+- 🎮 Loves to play games in spare time.  
+- 🤖 Experiments with new AI tools and builds projects using them.  
+- 💬 Ask me about anything technical!  
+- 💻 Loves to write and optimize code.  
+
+---
+
+## 🛠️ Languages and Tools
+
+![Languages and Tools](https://github.com/iiTzShubham/languages-and-tools-banner.png)   
 
 ---
 
@@ -33,6 +39,7 @@
 - 🐦 [X (Twitter)](https://x.com/S0NiC_03)  
 - 📸 [Instagram](https://www.instagram.com/shubz.p98/)  
 - 🎮 [Twitch](https://www.twitch.tv/s0nic_33)  
+- ✍️ [Medium](https://medium.com/@patil.pshubham3)  
 
 ---
 
