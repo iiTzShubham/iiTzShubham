@@ -2,7 +2,7 @@
 
 A software engineer passionate about building impactful AI-driven solutions and cloud-based applications.
 
-🎓 **Master's in Engineering Management (Data Science)** from **San Jose State University**  
+🎓 **Master's in Computer Science - AI, Data Science**  
 💻 **Software Engineer** | 🚀 **AI DATA Enthusiast** | 🌐 **Cloud Developer**
 
 ---
