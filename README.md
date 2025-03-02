@@ -72,7 +72,7 @@ I'm actively exploring opportunities to collaborate on innovative projects, cont
 
 ## 📫 Reach Me
 
-- ✉️ Email[patil.pshubham@gmail.com](mailto:patil.pshubham@gmail.com)  
+- ✉️ [patil.pshubham@gmail.com](mailto:patil.pshubham@gmail.com)  
 - 🌐 [Portfolio](https://shubhampatil03/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/shubhampatil03/)  
 - 🧑‍💻 [GitHub](https://github.com/iiTzShubham)  
