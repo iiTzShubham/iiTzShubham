@@ -12,7 +12,7 @@ A software engineer passionate about building impactful AI-driven solutions and 
 - 👨‍💻 A passionate engineer with expertise in **AI tools**, **data science**, and **cloud technologies**.  
 - 🏆 Winner of **Smart India Hackathon** and a recipient of the **Google India Scholarship**.  
 - ✍️ Published a **research paper** in the *International Journal of Scientific Research and Engineering Development*.  
-- 📜 Holder of a **copyright** for "Synchronization of devices using infrared (IR) technologies - L73523 (Copyrights Office Government of India)"  
+- 📜 Holder of a **copyright** for "Synchronization of devices using infrared (IR) technologies-L73523(Copyrights Office Government of India)"  
 
 I'm actively exploring opportunities to collaborate on innovative projects, contribute to open-source initiatives, and build solutions that drive technological advancement.
 
