@@ -3,7 +3,7 @@
 A software engineer passionate about building impactful AI-driven solutions and cloud-based applications.
 
 🎓 **Master's in Computer Science - AI, Data Science**  
-💻 **Software Engineer** | 🚀 **AI DATA Enthusiast** 
+💻 **Software Engineer** | 🚀 **AI DATA Enthusiast**  | ☁️ **Cloud Computing Advocate**
 
 ---
 
