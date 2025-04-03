@@ -76,7 +76,7 @@ I'm actively exploring opportunities to collaborate on innovative projects, cont
 - 🌐 [Portfolio](https://shubhampatil03/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/shubhampatil03/)  
 - 🧑‍💻 [GitHub](https://github.com/iiTzShubham)  
-- 📄 [Resume](https://github.com/iiTzShubham/Resume2025.pdf)  
+- 📄 [Resume](https://github.com/iiTzShubham/resume/blob/main/resume%20(7).pdf)  
 - 🐦 [X (Twitter)](https://x.com/S0NiC_03)  
 - 📸 [Instagram](https://www.instagram.com/shubz.p98/)  
 - 🎮 [Twitch](https://www.twitch.tv/s0nic_33)  
