@@ -10,13 +10,13 @@ A software engineer passionate about building impactful AI-driven solutions and 
 
 ## 🌟 About Me
 
-- 👨‍💻 Software Engineer with 3+ years of experience building scalable, cloud-native applications and AI-driven solutions  
-- 🧠 Expertise in full-stack development, ML pipelines, LLMs, cloud engineering (GCP, AWS, Azure), and DevOps automation  
-- 🚀 Developed platforms for AirAsia, BYJU’S, ICICI Lombard, and Tata Steel—boosting performance, engagement, and efficiency  
-- 🤖 Built ML/AI systems for malware detection, secure SCADA protocols, and personalized career recommendation engines  
-- 🧪 Published researcher in federated learning privacy, ANN-based surveillance, and patented IoT tech  
-- 🏆 Google India Scholar | Smart India Hackathon Runner-up | GPA 4.0 (Westcliff University)  
-- 🔍 Passionate about experimenting with tools like LLaMA 3, GNNs, ChromaDB, and building data-driven applications
+👨‍💻 Software Engineer with 3+ years of experience building scalable, cloud-native applications and AI-driven solutions  
+🧠 Expertise in full-stack development, ML pipelines, LLMs, cloud engineering (GCP, AWS, Azure), and DevOps automation  
+🚀 Developed platforms for AirAsia, BYJU’S, ICICI Lombard, and Tata Steel—boosting performance, engagement, and efficiency  
+🤖 Built ML/AI systems for malware detection, secure SCADA protocols, and personalized career recommendation engines  
+🧪 Published researcher in federated learning privacy, ANN-based surveillance, and patented IoT tech  
+🏆 Google India Scholar | Smart India Hackathon Runner-up | GPA 4.0 (Westcliff University)  
+🔍 Passionate about experimenting with tools like LLaMA 3, GNNs, ChromaDB, and building data-driven applications
 
 Open to impactful collaborations, innovative product builds, and AI research projects that solve real-world problems.
 
@@ -24,10 +24,10 @@ Open to impactful collaborations, innovative product builds, and AI research pro
 
 ## 🚀 Fun Facts
 
-- 🎮 Loves to play games in spare time.  
-- 🤖 Experiments with new AI tools and builds projects using them.  
-- 💬 Ask me about anything technical!  
-- 💻 Loves to write and optimize code and Blogs.
+🎮 Loves to play games in spare time.  
+🤖 Experiments with new AI tools and builds projects using them.  
+💬 Ask me about anything technical!  
+💻 Loves to write and optimize code and Blogs.
 
 ---
 
@@ -76,15 +76,15 @@ Open to impactful collaborations, innovative product builds, and AI research pro
 
 ## 📫 Reach Me
 
-- ✉️ [patil.pshubham@gmail.com](mailto:patil.pshubham@gmail.com)  
-- 🌐 [Portfolio](https://shubhampatil03/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/shubhampatil03/)  
-- 🧑‍💻 [GitHub](https://github.com/iiTzShubham)  
-- 📄 [Resume](https://github.com/iiTzShubham/resume/blob/main/resume%20(7).pdf)  
-- 🐦 [X (Twitter)](https://x.com/S0NiC_03)  
-- 📸 [Instagram](https://www.instagram.com/shubz.p98/)  
-- 🎮 [Twitch](https://www.twitch.tv/s0nic_33)  
-- ✍️ [Medium](https://medium.com/@patil.pshubham3)  
+✉️ [patil.pshubham@gmail.com](mailto:patil.pshubham@gmail.com)  
+🌐 [Portfolio](https://shubhampatil03/)  
+💼 [LinkedIn](https://www.linkedin.com/in/shubhampatil03/)  
+🧑‍💻 [GitHub](https://github.com/iiTzShubham)  
+📄 [Resume](https://github.com/iiTzShubham/resume/blob/main/resume%20(7).pdf)  
+🐦 [X (Twitter)](https://x.com/S0NiC_03)  
+📸 [Instagram](https://www.instagram.com/shubz.p98/)  
+🎮 [Twitch](https://www.twitch.tv/s0nic_33)  
+✍️ [Medium](https://medium.com/@patil.pshubham3)  
 
 ---
 
