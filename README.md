@@ -1,20 +1,24 @@
-# 👋 Hi, I'm Shubham Patil
+# 👋 Hi, I'm Shubham Patil  
+![Profile views](https://komarev.com/ghpvc/?username=iiTzShubham&label=Profile%20views&color=0e75b6&style=flat)
 
 A software engineer passionate about building impactful AI-driven solutions and cloud-based applications.
 
-🎓 **Master's in Computer Science - AI, Data Science**  
-💻 **Software Engineer** | 🚀 **AI DATA Enthusiast**  | ☁️ **Cloud Computing Advocate**
+🎓 **Master's in Computer Science – AI, Data Science**  
+💻 **Software Engineer** | 🚀 **AI/Data Enthusiast** | ☁️ **Cloud Computing Advocate**
 
 ---
 
 ## 🌟 About Me
 
-- 👨‍💻 A passionate engineer with expertise in **AI tools**, **data science**, and **cloud technologies**.  
-- 🏆 Winner of **Smart India Hackathon** (Runner-up) and a recipient of the **Google India Scholarship**.  
-- ✍️ Published a **research paper** in the *International Journal of Scientific Research and Engineering Development*.  
-- 📜 Holder of a **copyright** for "Synchronization of devices using infrared (IR) technologies-L73523(Copyrights Office Government of India)"  
+- 👨‍💻 Software Engineer with 3+ years of experience building scalable, cloud-native applications and AI-driven solutions  
+- 🧠 Expertise in full-stack development, ML pipelines, LLMs, cloud engineering (GCP, AWS, Azure), and DevOps automation  
+- 🚀 Developed platforms for AirAsia, BYJU’S, ICICI Lombard, and Tata Steel—boosting performance, engagement, and efficiency  
+- 🤖 Built ML/AI systems for malware detection, secure SCADA protocols, and personalized career recommendation engines  
+- 🧪 Published researcher in federated learning privacy, ANN-based surveillance, and patented IoT tech  
+- 🏆 Google India Scholar | Smart India Hackathon Runner-up | GPA 4.0 (Westcliff University)  
+- 🔍 Passionate about experimenting with tools like LLaMA 3, GNNs, ChromaDB, and building data-driven applications
 
-I'm actively exploring opportunities to collaborate on innovative projects, contribute to open-source initiatives, and build solutions that drive technological advancement.
+Open to impactful collaborations, innovative product builds, and AI research projects that solve real-world problems.
 
 ---
 
