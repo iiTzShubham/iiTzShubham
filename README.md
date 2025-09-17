@@ -10,14 +10,14 @@ A software engineer passionate about building impactful AI-driven solutions and 
 
 ## 🌟 About Me
 
-👨‍💻 Software & Data Engineer with 4+ years delivering cloud-native apps, analytics platforms, and ML systems
-🧠 End-to-end skills across full-stack (React, Node, Django/Angular), data engineering (Airflow, ETL, BigQuery/Snowflake), ML/LLMs (TensorFlow, scikit-learn, GNNs, LangChain, RAG/ChromaDB), and cloud (GCP, AWS, Azure)
-🚀 Drove measurable impact: +30% course completions / +25% engagement on a learning platform; −40% latency & 10k+ concurrent on live streaming (≈ $300K/yr saved); 50% faster info access via enterprise search; −90% reporting lag across 50k+ tx/day
-🧩 Built data platforms & governance at scale: 200+ users on real-time BI (BigQuery/Data Studio), 10+ APIs / 500GB+ daily ETL with Airflow, RBAC & lineage in Snowflake (GDPR; −95% unauthorized access)
-🤖 Applied AI projects: SecureDNP3 IDS (SVM/XGBoost/GNNs, −37% FPs), AI-Driven Malware Detection (97% accuracy), Career Compass AI (LLM + RAG/ChromaDB, +25% personalization, −20% latency)
-📚 Research & IP: Federated-learning genomic privacy, ANN-based crowd monitoring, and copyrighted IR-sync device
-🎓 M.S. Computer Science (GPA 4.0) — Westcliff University | B.Tech (GPA 3.8) — SPPU
-🔧 Daily drivers: Python, JavaScript/TypeScript, SQL, Docker/Kubernetes, Vertex AI/Cloud Functions, PostgreSQL/MySQL/MongoDB, Tableau/Power BI
+- 👨‍💻 Software & Data Engineer with **4+ years** delivering cloud-native apps, analytics platforms, and ML systems
+- 🧠 End-to-end skills across **full-stack (React, Node, Django/Angular)**, **data engineering (Airflow, ETL, BigQuery/Snowflake)**, **ML/LLMs (TensorFlow, scikit-learn, GNNs, LangChain, RAG/ChromaDB)**, and **cloud (GCP, AWS, Azure)**
+- 🚀 Drove measurable impact: **+30% course completions / +25% engagement**; **−40% latency** & **10k+ concurrent** on live streaming (≈ **$300K/yr** saved); **50% faster info access** via enterprise search; **−90% reporting lag** across **50k+ tx/day**
+- 🍀 Built data platforms & governance at scale: **200+ users** on real-time BI (BigQuery/Data Studio), **10+ APIs / 500GB+ daily** ETL with **Airflow**, **RBAC & lineage in Snowflake** (GDPR; **−95% unauthorized access**)
+- 🤖 Applied AI projects: **SecureDNP3** IDS (SVM/XGBoost/**GNNs**, **−37% FPs**), **AI-Driven Malware Detection** (**97% accuracy**), **Career Compass AI** (**LLM + RAG/ChromaDB**, **+25% personalization**, **−20% latency**)
+- 📚 Research & IP: **Federated-learning genomic privacy**, **ANN-based crowd monitoring**, and **copyrighted IR-sync device**
+- 🎓 **M.S. Computer Science (GPA 4.0)** — Westcliff University | **B.Tech (GPA 3.8)** — SPPU
+- 🔧 Daily drivers: **Python, JavaScript/TypeScript, SQL**, **Docker/Kubernetes**, **Vertex AI/Cloud Functions**, **PostgreSQL/MySQL/MongoDB**, **Tableau/Power BI**
 
 Open to impactful collaborations, innovative product builds, and AI research projects that solve real-world problems.
 
