@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shubham%20Patil&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%20%26%20Data%20Systems%20%E2%80%A2%20Cloud&descAlignY=58&descSize=18" alt="Shubham Patil banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shubham%20Patil&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%20%E2%80%A2%20Data%20%E2%80%A2%20Cloud&descAlignY=58&descSize=18" alt="Shubham Patil banner"/>
 </p>
 
 <p align="center">
